@@ -50,7 +50,6 @@ function resultadoOperacoes(){
             <Resultado :resultado="estado.resultado"/>
         </div>
     </div>
-
 </template>
 
 <style scoped></style>
